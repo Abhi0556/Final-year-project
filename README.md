@@ -96,9 +96,6 @@ Introducing a new and innovative custom coffee feature that allows customers to 
 
 This comprehensive set of features aims to create a robust and user-friendly Coffee Management System, catering to both business operations and customer interactions.
 
-
-Certainly! When using PostgreSQL as the database for your Coffee Management System, you'll likely employ a combination of backend and frontend technologies to build a robust and efficient software solution. Here's a list of technologies commonly used in such projects:
-
 # Technologies Used:
 
 Backend Technologies:
